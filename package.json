@@ -13,7 +13,7 @@
         "clean": "rm -rf dist .cache",
         "build": "npm-run-all -s clean postcss:build parcel:build",
         "start": "npm-run-all -s clean -p postcss:watch dev",
-        "deploy": "rm -rf dist/ && npm run build && gh-pages -d dist"
+        "deploy": "gh-pages -d dist"
     },
     "dependencies": {
         "autoprefixer": "^9.8.6",
