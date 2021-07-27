@@ -1,8 +1,8 @@
 {
-    "name": "alexbit",
+    "name": "alexbit-website",
     "version": "1.0.0",
     "main": "index.js",
-    "author": "",
+    "author": "Alexey <alexbit.dev@gmail.com>",
     "license": "MIT",
     "scripts": {
         "postcss:watch": "postcss src/assets/css/index.pcss -o src/assets/css/index.css --env development -w",

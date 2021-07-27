@@ -61,6 +61,10 @@ body {
     color: var(--side-secondary-color);
 }
 
+#toggle {
+    position: fixed;
+}
+
 .main {
     background-color: var(--primary-color);
 }
