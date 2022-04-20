@@ -1,4 +1,4 @@
-baseURL = "https://4lexbit.github.io/"
+baseURL = "https://4lexbit.github.io"
 languageCode = 'en-us'
 title = 'alexbit'
 theme = 'hugo-theme-shell'
