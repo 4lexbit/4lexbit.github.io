@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://4lexbit.github.io/description/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://4lexbit.github.io/projects/urlman/</loc>
+  </url><url>
+    <loc>https://4lexbit.github.io/</loc>
+  </url><url>
+    <loc>https://4lexbit.github.io/categories/</loc>
+  </url><url>
+    <loc>https://4lexbit.github.io/projects/</loc>
+  </url><url>
+    <loc>https://4lexbit.github.io/tags/</loc>
+  </url>
+</urlset>
