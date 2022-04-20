@@ -1,0 +1,44 @@
+baseURL = "https://4lexbit.github.io/"
+languageCode = 'en-us'
+title = 'alexbit'
+theme = 'hugo-theme-shell'
+
+[Params]
+  description = "Alexey Potapov's Portfolio!"
+  [Params.Terminal]
+  scheme = "Dracula"
+  userName = "alexbit"
+  pcName = "server"
+  workDir = "me"
+  profile = "about.txt"
+
+  ps1Delay = 0 
+  stdoutDelay = 0 
+  commandDelay = 50
+  titleDelay = 0
+  contentDelay = 10
+
+  description = """
+      I was born in Almaty, Kazakhstan 🇰🇿
+      and live there. I practice web application
+       development based on Python and Go 👨‍💻
+      I also enjoy working with the client side
+       and getting creative 🎨
+  """
+
+  [Params.Tree]
+  use = true
+  folderName = "links"
+  files = [
+    ["Github", "https://github.com/4lexbit/"],
+    ["LinkedIn", "https://github.com/4lexbit/"],
+    ["Twitter", "https://twitter.com/alexbit_dev"],
+    ["Telegram", "https://t.me/alexbit_dev"],
+  ]
+
+  [Params.Tree2]
+  use = true
+  folderName = "projects"
+  files = [
+    ["url-manager", "/projects/urlman.md"],
+  ]
