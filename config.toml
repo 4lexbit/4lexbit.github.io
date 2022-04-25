@@ -31,7 +31,7 @@ theme = 'hugo-theme-shell'
   folderName = "links"
   files = [
     ["Github", "https://github.com/4lexbit/"],
-    ["LinkedIn", "https://github.com/4lexbit/"],
+    ["LinkedIn", "https://linkedin.com/in/4lexbit/"],
     ["Twitter", "https://twitter.com/alexbit_dev"],
     ["Telegram", "https://t.me/alexbit_dev"],
   ]
